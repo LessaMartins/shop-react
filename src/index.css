@@ -1,0 +1,38 @@
+img {
+}
+
+.image-card {
+  background-size: cover;
+  width: 150px;
+}
+
+.card {
+  border-radius: 20px;
+  width: 150px;
+  padding: 1rem;
+  display: grid;
+  place-items: center;
+
+  border-radius: 50px;
+  background: #ffffff;
+  border-radius: 50px;
+  background: #ffffff;
+  box-shadow: 11px 11px 22px #d9d9d9, -11px -11px 22px #ffffff;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 3rem;
+}
+
+.product-name {
+}
+
+.image-card {
+}
+
+.type {
+}
+.price {
+}
